@@ -40,23 +40,7 @@ Results-driven Full Stack Developer skilled in Java, Python, and Frontend Develo
 
 ---
 
-## 🚀 Featured Projects
 
-### [COVID-19 Dashboard](https://github.com/vaishnavichangle/covid19-dashboard)
-- **Tech:** HTML, CSS, JavaScript, Bootstrap, Chart.js, API Integration
-- **Features:**
-  - Interactive line, bar, and pie charts using Chart.js for cases, recoveries, and vaccinations
-  - Date-range filter and regional dropdown to view state-wise data
-  - Dark mode toggle and responsive layout for mobile & desktop
-  - Downloadable CSV reports for offline analysis
-  - Deployed via GitHub Pages with CI/CD workflow for automatic updates
-- **Impact:** Enabled users to visualize pandemic trends quickly, averaging 500+ visits/month
-
-### [Personal Portfolio](https://github.com/vaishnavichangle/portfolio)
-- **Tech:** HTML, CSS, JavaScript
-- Showcases my projects, skills, and achievements with smooth scroll and responsive design
-
----
 
 ## 🎓 Education
 
@@ -81,6 +65,12 @@ Results-driven Full Stack Developer skilled in Java, Python, and Frontend Develo
 - Reduced MySQL query execution time by **25%**, enhancing DB performance.
 - Delivered 20% boost in user engagement through UI optimizations.
 
+---
 
+> "Continuous learning and collaboration drive impactful solutions."
 
+---
 
+<!--
+**vaishnavichangle/vaishnavichangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
