@@ -81,3 +81,6 @@ Results-driven Full Stack Developer skilled in Java, Python, and Frontend Develo
 - Reduced MySQL query execution time by **25%**, enhancing DB performance.
 - Delivered 20% boost in user engagement through UI optimizations.
 
+
+
+
